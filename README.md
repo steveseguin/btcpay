@@ -1,6 +1,6 @@
-steveseguin.github.io/btcpay
+donate BTC here: steveseguin.github.io/btcpay
 
-steveseguin@btcpay.vdo.ninja
+lightning address here: steveseguin@btcpay.vdo.ninja
 
 by request
 
