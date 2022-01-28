@@ -1,4 +1,4 @@
-steveseguin.github.io/website
+steveseguin.github.io/btcpay
 
 by request
 
